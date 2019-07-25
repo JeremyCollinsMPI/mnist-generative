@@ -1,5 +1,5 @@
 # mnist-generative
-Pull docker image
-jeremycollinsmpi/mnist-generative:20190725b
 
-Run python Model1.py
+docker run -it jeremycollinsmpi/mnist-generative:20190725b /bin/bash
+
+python Model1.py
